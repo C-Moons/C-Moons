@@ -1,12 +1,10 @@
 ## Hi there 👋
-
+🔭 I’m currently working on IT Support🖥️
+🌱 I’m currently learning Fullstack Developer (Frontend & Backend)
 <!--
 **C-Moons/C-Moons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-🔭 I’m currently working on IT Support🖥️
-🌱 I’m currently learning Fullstack Developer (Frontend & Backend)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -29,3 +27,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=C-Moons&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
