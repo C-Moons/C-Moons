@@ -1,3 +1,6 @@
+<img align="center" width=100% height=300 src="/assets/13363.gif">
+
+
 # 💫 About Me:
 🔭 I’m currently looking for work as a QA Engineer<br>🌱 I’m currently learning Software QA Automation
 
