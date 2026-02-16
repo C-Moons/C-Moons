@@ -1,4 +1,4 @@
-<img align="center" width=100% height=480 src="/assets/13363.gif">
+<img align="center" width=100% height=100% src="/assets/35866.gif.gif">
 
 
 # 💫 About Me:
